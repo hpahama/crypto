@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int printb(char n){
+	printf("%b", n);
+	return 0;
+}
